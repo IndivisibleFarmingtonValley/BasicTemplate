@@ -1,11 +1,10 @@
 ---
-title: Senator Kamala Harris
+title: Senator Richard Blumenthal
 date: 2017-02-04 02:01:00 Z
-main-image: "/uploads/karris.jpg"
 phone-numbers:
-  SF Office: "(213) 894-5000"
-  DC Office: "(202) 224-3553"
-  Sacramento Office: "(916) 448-2787"
-website: https://www.harris.senate.gov/
+  DC Office: "(202) 224-2823"
+  Hartford Office: "(860) 258-6940"
+  Bridgeport Office: "(203) 330-0598"
+website: https://www.blumenthal.senate.gov/
 ---
 
