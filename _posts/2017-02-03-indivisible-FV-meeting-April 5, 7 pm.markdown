@@ -6,7 +6,6 @@ categories:
 tags:
 - meeting
 is featured: false
-main-image: "/uploads/Unknown.jpeg"
 event-start-date: 2017-04-05 19:00:00 -04:00
 layout: post
 ---
