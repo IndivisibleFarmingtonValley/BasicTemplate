@@ -32,6 +32,12 @@ defaults:
     layout: post
 - scope:
     path: ''
+    type: pages
+   values:
+    main-image:
+    layout: page
+- scope:
+    path: ''
     type: representatives
   values:
     main-image: 
