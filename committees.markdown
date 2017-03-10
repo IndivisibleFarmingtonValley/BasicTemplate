@@ -1,10 +1,6 @@
 ---
 title: Committees
 date: 2017-03-10 14:11:00 -05:00
-Education: Education
-Environment: Environment
+layout: actions
 ---
 
-Education
-Environment
-Healthcare
