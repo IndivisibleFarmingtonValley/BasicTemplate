@@ -1,5 +1,5 @@
 ---
-title: 'Indivisible SF Meeting: Jan 30, 3pm'
+title: 'Indivisible Farmington Valley General Meeting: April 5, 2017, 7-9 pm'
 date: 2017-02-03 02:10:00 -05:00
 categories:
 - event
@@ -7,10 +7,7 @@ tags:
 - meeting
 is featured: false
 main-image: "/uploads/Unknown.jpeg"
-event-start-date: 2017-02-05 14:30:00 -05:00
-Location: Women's Building - 512 Filmore St, San Francisco, CA
-RSVP-link: http://facebook.com/event
+event-start-date: 2017-04-05 19:00:00 -04:00
 layout: post
 ---
 
-This week's agenda will focus on congressional recess and town halls. Join in!
