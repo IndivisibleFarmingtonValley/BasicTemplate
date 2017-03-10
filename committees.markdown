@@ -12,7 +12,11 @@ Committees:
 layout: page
 ---
 
-# Test 1
-# Test 2
-# Test 3
+## Education
+## Environment
+## Healthcare
+## Immigration
+## Media/Outreach/Transparency
+## Rights
+## State Legislation
 
