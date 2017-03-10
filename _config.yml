@@ -31,10 +31,10 @@ defaults:
     RSVP-link: 
     layout: post
 - scope:
-    path: ""
-    type: "pages"
+    path: ''
+    type: pages
   values:
-    layout: "page"
+    layout: page
 - scope:
     path: ''
     type: representatives
