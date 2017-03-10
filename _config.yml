@@ -32,12 +32,6 @@ defaults:
     layout: post
 - scope:
     path: ''
-    type: pages
-   values:
-    main-image:
-    layout: page
-- scope:
-    path: ''
     type: representatives
   values:
     main-image: 
@@ -62,7 +56,7 @@ baseurl:
 url: 
 twitter_username: 
 github_username: 
-facebook_username: https://www.facebook.com/IndivisibleFarmingtonValley/?ref=br_tf
+facebook_username: IndivisibleFarmingtonValley
 background-image: "/uploads/Title%20Photo.jpg"
 mailchimp-form-embed: 
 member-count: 
