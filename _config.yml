@@ -1,5 +1,5 @@
 ---
-title: Indivisible Farmington Valley
+title: Indivisible Farmington Valley, CT
 timezone: America/New_York
 collections:
   committees:
@@ -54,7 +54,8 @@ defaults:
     type: calendar
   values:
     embed-code: 
-subtitle: Farmington Valley Indivisible
+subtitle: Indivisible Farmington Valley coordinates efforts to resist the initiatives
+  of the Trump Administration.
 email: 
 baseurl: 
 url: 
