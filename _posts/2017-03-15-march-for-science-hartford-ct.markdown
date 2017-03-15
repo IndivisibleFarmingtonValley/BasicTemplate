@@ -6,6 +6,7 @@ tags:
 - march
 - science
 - Hartford
+main-image: "/uploads/march%20for%20science.jpg"
 event-start-date: 2017-04-22 00:00:00 -04:00
 event-end-date: 2017-04-22 15:00:00 -04:00
 Location: Mortensen Riverfront Plaza, Hartford CT
