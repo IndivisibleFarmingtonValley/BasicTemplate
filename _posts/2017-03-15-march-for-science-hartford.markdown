@@ -4,6 +4,7 @@ date: 2017-03-15 15:30:00 -04:00
 published: false
 categories:
 - event
+main-image: "/uploads/march%20for%20science%202.jpg"
 event-start-date: 2017-04-22 12:00:00 -04:00
 event-end-date: 2017-04-22 15:00:00 -04:00
 Location: Mortensen Riverside Plaza, Hartford, CT
