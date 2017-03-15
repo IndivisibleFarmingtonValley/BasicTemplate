@@ -1,7 +1,6 @@
 ---
 title: 'March for Science: Hartford CT'
 date: 2017-03-15 13:39:00 -04:00
-published: false
 tags:
 - march
 - science
