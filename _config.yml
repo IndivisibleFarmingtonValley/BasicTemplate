@@ -2,9 +2,6 @@
 title: Indivisible Farmington Valley, CT
 timezone: America/New_York
 collections:
-  committees:
-    title: Committees
-    output: true
   posts:
     title: Posts
     output: true
