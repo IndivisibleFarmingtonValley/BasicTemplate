@@ -15,4 +15,3 @@ Location: Mortensen Riverside Plaza, Hartford, CT
 
 Local gathering in cooperation with the March for Science on Washington DC on April 22, 2017. 
 
-[](https://www.facebook.com/events/1241666845952712/)
