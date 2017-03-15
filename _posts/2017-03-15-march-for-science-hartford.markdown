@@ -1,7 +1,6 @@
 ---
 title: March for Science:Hartford
 date: 2017-03-15 15:30:00 -04:00
-published: false
 main-image: "/uploads/march%20for%20science.jpg"
 call-script-text: "HARTFORD, CT local gathering in cooperation with the March for
   Science on Washington DC on April 22, 2017.  A non-partisan celebration of science
