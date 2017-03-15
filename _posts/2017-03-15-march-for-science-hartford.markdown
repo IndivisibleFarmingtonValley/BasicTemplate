@@ -1,7 +1,6 @@
 ---
 title: March for Science:Hartford
 date: 2017-03-15 15:30:00 -04:00
-published: false
 categories:
 - event
 main-image: "/uploads/march%20for%20science.jpg"
