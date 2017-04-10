@@ -8,7 +8,7 @@ Committees:
 - Immigration - "We support all immigrants"
 - Media/Outreach/Transparency
 - Rights
-- State Legislation
+- 'Legislative/Federal Politics/Gun Issues '
 layout: page
 ---
 
