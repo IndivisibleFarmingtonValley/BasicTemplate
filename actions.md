@@ -1,9 +1,11 @@
 ---
-title: Action - Legislative/Federal Politics/Gun Issues Committee
+title: Action -
 position: 4
 main-image: 
 layout: actions
 ---
+
+Legislative/Federal Politics/Gun Issues Committee
 
 Please contact your Connecticut Representative and Senator to:
 
