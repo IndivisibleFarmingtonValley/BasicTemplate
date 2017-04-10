@@ -5,7 +5,7 @@ main-image:
 layout: actions
 ---
 
-Legislative/Federal Politics/Gun Issues Committee
+**Legislative/Federal Politics/Gun Issues Committee**
 
 Please contact your Connecticut Representative and Senator to:
 
