@@ -6,6 +6,7 @@ layout: actions
 ---
 
 Please contact your Connecticut Representative and Senator to:
+
 1.** Oppose HB 7259:** which would require permit, certificate or license reciprocity between Connecticut and other states that have substantially similar standards for carrying a pistol or revolver 
 2.**Support HB 6200:** which would require individuals who carrying a pistol or revolver to produce their permit upon request of a law enforcement officer if the firearm is visible to such officer 
 3. **Oppose H.B. No. 6546** regarding adding a pipeline tax for natural gas on all CT residents
