@@ -13,10 +13,15 @@ layout: page
 ---
 
 ## Education
-## Environment "We support all immigrants"
-## Healthcare
-## Immigration
-## Media/Outreach/Transparency
-## Rights
-## State Legislation
 
+## Environment
+
+## Healthcare
+
+## Immigration "We support all immigrants"
+
+## Media/Outreach/Transparency
+
+## Rights
+
+## Legislative/Federal Politics/Gun Issues
