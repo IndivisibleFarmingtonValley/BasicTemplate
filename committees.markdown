@@ -5,7 +5,7 @@ Committees:
 - Education
 - Environment
 - Healthcare
-- Immigration
+- Immigration - "We support all immigrants"
 - Media/Outreach/Transparency
 - Rights
 - State Legislation
