@@ -13,7 +13,7 @@ layout: page
 ---
 
 ## Education
-## Environment
+## Environment "We support all immigrants"
 ## Healthcare
 ## Immigration
 ## Media/Outreach/Transparency
