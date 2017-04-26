@@ -1,6 +1,6 @@
 ---
 title: 'Climate March: Connecticut'
-date: 2017-03-15 15:30:00 -04:00
+date: 2017-04-29 00:00:00 -04:00
 categories:
 - event
 tags:
