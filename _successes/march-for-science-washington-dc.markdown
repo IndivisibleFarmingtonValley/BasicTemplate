@@ -9,5 +9,4 @@ main-image: "/uploads/crowd%201.jpg"
 layout: media-grid
 ---
 
-
 Washington DC April 22, 2017
