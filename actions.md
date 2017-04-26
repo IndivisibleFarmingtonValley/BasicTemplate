@@ -5,14 +5,14 @@ main-image:
 layout: actions
 ---
 
-# "Farmington Valley Victory" phonebank
+### "Farmington Valley Victory" phonebank
  April 29th at 81 Canton Rd., West Simsbury.  It will start at 6:00, but come any time after that!  Please bring your cell phone and lap top.  We have two extra computers for those of you who do not have a lap top.  We will help you from there! A southern dinner will be provided; pulled pork, beans, and slaw in keeping with the GA/South Carolina theme!  We need to win these races! 
 Please let me know if you can make it, so I can have enough food and stations for phone banking! 
 RSVP to Rene' at bradfordba@aol.com.
 
 
 
-**Legislative/Federal Politics/Gun Issues Committee**
+### Legislative/Federal Politics/Gun Issues Committee
 
 Please contact your Connecticut Representative and Senator to:
 
