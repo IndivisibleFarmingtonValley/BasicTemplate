@@ -1,6 +1,10 @@
 ---
 title: March for Science Washington DC
 date: 2017-04-25 21:41:00 -04:00
+categories:
+- March
+tags:
+- Science
 layout: media-item
 ---
 
