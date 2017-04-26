@@ -1,5 +1,5 @@
 ---
-title: '"Here to Stay" Rally for Immigrants Rights'
+title: April 29 th"Here to Stay" Rally for Immigrants Rights
 date: 2017-04-29 21:28:00 -04:00
 categories:
 - march
@@ -14,10 +14,5 @@ layout: event
 Rally to defend the rights of Connecticut immigrants, celebrate the richness of our diverse state, and honor a safe climate.
 CT STATE CAPITOL, NORTH STEPS
 210 CAPITOL AVE, HARTFORD CT 06106
-HERE TO WORK HERE TO PRAY
-HERE TO DANCE
-HERE TO SHARE HERE TO LIVE
-HERE TO LOVE
-HERE TO DREAM
-HERE TO THRIVE
+
 * Music * Food * Stories *
