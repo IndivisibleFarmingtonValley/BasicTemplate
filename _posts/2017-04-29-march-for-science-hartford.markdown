@@ -6,9 +6,9 @@ categories:
 tags:
 - march
 main-image: "\n"
-call-script-text: Click for more information on local marches
 event-start-date: 2017-04-29 00:00:00 -04:00
 event-end-date: 2017-04-29 00:00:00 -04:00
+Location: Click for more information on local marches
 ---
 
 Local gathering in cooperation with the Climate March in Washington DC on Saturday April 29, 2017. For more information on local Climate Marches 
