@@ -2,6 +2,9 @@
 title: Indivisible Farmington Valley, CT
 timezone: America/New_York
 collections:
+  immigration-rally-hartford:
+    title: Immigration Rally  Hartford
+    output: true
   march-for-science-washington-dc:
     title: March for Science Washington DC
     output: true
