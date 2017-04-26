@@ -1,6 +1,7 @@
 ---
 title: '"Here to Stay" Rally for Immigrants'
 date: 2017-04-25 21:10:00 -04:00
+layout: event
 ---
 
 `April 29, 2017
