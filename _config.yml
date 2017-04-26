@@ -5,9 +5,6 @@ collections:
   immigration-rally-hartford:
     title: Immigration Rally  Hartford
     output: true
-  march-for-science-washington-dc:
-    title: March for Science Washington DC
-    output: true
   posts:
     title: Posts
     output: true
