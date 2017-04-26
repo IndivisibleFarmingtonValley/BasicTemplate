@@ -6,6 +6,7 @@ categories:
 tags:
 - march
 main-image: "\n"
+call-script-text: Click for more information on local marches
 event-start-date: 2017-04-29 00:00:00 -04:00
 event-end-date: 2017-04-29 00:00:00 -04:00
 ---
