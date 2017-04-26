@@ -9,6 +9,5 @@ main-image: "/uploads/crowd%201.jpg"
 layout: media-grid
 ---
 
-![crowd 1.jpg](/uploads/crowd%201.jpg)
+
 Washington DC April 22, 2017
-![Crowd 2.jpg](/uploads/Crowd%202.jpg)
