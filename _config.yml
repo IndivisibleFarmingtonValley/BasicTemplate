@@ -11,6 +11,7 @@ collections:
   successes:
     title: Successes
     output: true
+    permalink: "/successes/path"
   uploads:
     title: Uploads
     output: true
