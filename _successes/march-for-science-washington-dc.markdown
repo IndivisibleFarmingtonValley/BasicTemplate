@@ -5,6 +5,7 @@ categories:
 - March
 tags:
 - Science
+main-image: "/uploads/crowd%201.jpg"
 layout: media-grid
 ---
 
