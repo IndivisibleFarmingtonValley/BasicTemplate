@@ -1,5 +1,5 @@
 ---
-title: April 29 th"Here to Stay" Rally for Immigrants Rights
+title: '"Here to Stay" Rally for Immigrants Rights'
 date: 2017-04-29 21:28:00 -04:00
 categories:
 - event
