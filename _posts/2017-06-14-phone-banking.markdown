@@ -6,7 +6,8 @@ categories:
 tags:
 - meeting
 event-start-date: 2017-06-14 18:00:00 -04:00
-event-end-date: 2017-06-14 00:00:00 -04:00
+event-end-date: 2017-06-14 21:00:00 -04:00
+Location: 81 Canton Rd West Simsbury Click for more inof
 ---
 
 SPECIAL ELECTION PHONE BANKING
