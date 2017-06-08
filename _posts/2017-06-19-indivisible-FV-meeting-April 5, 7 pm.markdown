@@ -1,6 +1,6 @@
 ---
 title: 'Indivisible Farmington Valley Action Meeting: June 19, 2017, 7-9 pm'
-date: 2017-05-01 00:00:00 -04:00
+date: 2017-06-19 00:00:00 -04:00
 categories:
 - event
 tags:
