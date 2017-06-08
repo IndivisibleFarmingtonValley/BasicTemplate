@@ -7,6 +7,7 @@ tags:
 - meeting
 is featured: false
 event-start-date: 2017-06-19 19:00:00 -04:00
+event-end-date: 2017-06-19 21:00:00 -04:00
 Location: Avon Library -  281 Country Club Road Avon, CT
 layout: post
 ---
