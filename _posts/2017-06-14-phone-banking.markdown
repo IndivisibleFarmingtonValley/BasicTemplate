@@ -1,6 +1,7 @@
 ---
 title: Phone Banking - June 14 - 6 pm
-date: 2017-06-08 18:43:00 -04:00
+date: 2017-06-14 00:00:00 -04:00
+event-start-date: 2017-06-13 00:00:00 -04:00
 ---
 
 SPECIAL ELECTION PHONE BANKING
