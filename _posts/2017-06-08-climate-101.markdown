@@ -6,6 +6,8 @@ categories:
 tags:
 - meeting
 event-start-date: 2017-06-13 18:30:00 -04:00
+event-end-date: 2017-06-13 20:30:00 -04:00
+Location: Farmington Library.Click for more info
 ---
 
 **Gore’s CLIMATE REALITY 101 PRESENTATION **
