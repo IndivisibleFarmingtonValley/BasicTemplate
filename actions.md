@@ -17,7 +17,7 @@ Support Democratic Insurgent Candidates in Georgia (Jon Ossoff) and South Caroli
 Did you know 1 out of every 5 republicans in Ossoff’s area voted for him in the primary.  It is a stretch, but he can win with our help! Parnell’s area 8 years ago was blue. We can do this!
 
 ** August 26th, 2017
-"Indivisible March in Honor of the 19th"**
+Indivisible March in Honor of the 19th**
  all Indivisible Groups will march in support of the 19th amendment that allowed women to vote. Our local march is at the Connecticut Legislative Office Building 300 Capitol Avenue, Hartford, CT, Hartford, CT,
 We hope you can join us for the first Indivisible National March!
 
