@@ -1,5 +1,5 @@
 ---
-title: Phone Banking
+title: Phone Banking - June 14 - 6 pm
 date: 2017-06-08 18:43:00 -04:00
 ---
 
