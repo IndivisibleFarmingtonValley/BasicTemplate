@@ -1,5 +1,5 @@
 ---
-title: 'Indivisible Farmington Valley Action Meeting: June 19, 2017, 7-9 pm'
+title: 'Indivisible Farmington Valley Meeting: July 19, 2017, 7-9 pm'
 date: 2017-06-19 00:00:00 -04:00
 categories:
 - event
@@ -14,4 +14,4 @@ layout: post
 
 **GENERAL MEETING: NEW LOCATION**
 ## June 19, 7:00 Avon Library, 281 Country Club Road, Avon
-This meeting will be a working meeting! Please bring your cell phones, laptops, writing skills, art skills and thinking caps, as we will have activities for you to do in the name of the RESISTANCE!  Plus short committee updates.
+This meeting will include an update on our committee activities, upcoming actions and ideas of what to pursue in the future!
