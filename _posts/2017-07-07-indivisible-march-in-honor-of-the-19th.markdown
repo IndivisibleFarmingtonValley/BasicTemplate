@@ -1,6 +1,8 @@
 ---
 title: Indivisible March in Honor of the 19th August 26
 date: 2017-07-07 15:58:00 -04:00
+categories:
+- xevent
 ---
 
 August 26th, 2017
