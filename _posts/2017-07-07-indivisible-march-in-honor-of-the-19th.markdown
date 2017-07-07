@@ -6,6 +6,7 @@ categories:
 tags:
 - meeting
 event-start-date: 2017-08-26 13:00:00 -04:00
+event-end-date: 2017-08-26 17:00:00 -04:00
 Location: Connecticut Legislative Office Building 300 Capitol Avenue, Hartford, CT,
   Hartford
 ---
